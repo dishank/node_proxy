@@ -1,0 +1,18 @@
+{
+  "name": "node_proxy",
+  "version": "0.0.0",
+  "description": "A proxy made in node, to allow different node modules to run",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dishank/node_proxy.git"
+  },
+  "author": "Dishank Patel <dishankptl@gmail.com>",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/dishank/node_proxy/issues"
+  }
+}
